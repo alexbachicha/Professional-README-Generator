@@ -1,4 +1,5 @@
-# Professional-README-Generator with Node.js and ES6+
+# Professional-README-Generator using Node.js
+![GitHub License](https://img.shields.io/npm/l/inquirer)
 
 ## Description 
   
@@ -9,6 +10,7 @@ The Professional README Generator is a command-line application that runs with N
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
+* [Questions](#questions)
   
 
 ## Installation
@@ -44,6 +46,6 @@ MIT License
 
 ## Questions?
 
-GitHub: [@alexbachicha](https://github.com/alexbachicha)
+GitHub: [@alexbachicha](https://github.com/alexbachicha) ![GitHub](https://img.shields.io/github/followers/alexbachicha?style=social)
 
 Email: agbachicha@outlook.com
