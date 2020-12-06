@@ -1,5 +1,5 @@
 # Professional-README-Generator using Node.js
-![GitHub License](https://img.shields.io/npm/l/inquirer)
+![GitHub License](https://img.shields.io/npm/l/inquirer) ![Comit History](https://img.shields.io/github/last-commit/alexbachicha/Professional-README-Generator)
 
 ## Description 
   
