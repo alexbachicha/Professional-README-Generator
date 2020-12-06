@@ -26,7 +26,7 @@ The application itself can be invoked with `node index.js`.
 
 *Instructions and examples for use:*
 
-![Gif demo of README-generator](readme-demo.gif)
+![Gif demo of README-Generator](Professional-README-Generator/utils/Professional README Generator Demo.gif)
 
 When you run `node index.js`, the application uses the `inquirer` package to prompt you in the command line with a series of questions about your GitHub and about your project.
 
